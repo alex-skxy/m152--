@@ -113,8 +113,8 @@ more copypaste*/
     display: inline-block;
     padding: 15px;
     border: 33px solid transparent;
-    -moz-border-image: url("assets/baEaT.png") 33 repeat;
-    -webkit-border-image: url("assets/baEaT.png") 33 repeat;
-    -o-border-image: url("assets/baEaT.png") 33 repeat;
-    border-image: url("assets/baEaT.png") 33 repeat;
+    -moz-border-image: url("assets/baEaT.gif") 33 repeat;
+    -webkit-border-image: url("assets/baEaT.gif") 33 repeat;
+    -o-border-image: url("assets/baEaT.gif") 33 repeat;
+    border-image: url("assets/baEaT.gif") 33 repeat;
 }
