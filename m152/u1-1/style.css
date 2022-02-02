@@ -1,6 +1,12 @@
 body {
     display: flex;
     justify-content: center;
+    padding: 15px;
+    border: 33px solid transparent;
+    -moz-border-image: url("assets/biglamp.gif") 12.5% repeat;
+    -webkit-border-image: url("assets/biglamp.gif") 12.5% repeat;
+    -o-border-image: url("assets/biglamp.gif") 12.5% repeat;
+    border-image: url("assets/biglamp.gif") 12.5% repeat;
 }
 
 main {
